@@ -1,0 +1,38 @@
+{
+  "SnapshotId": "20260405042033_efae72ab",
+  "CapturedUtc": "2026-04-05T04:20:33.5395644+00:00",
+  "NormalisedContentHash": "3F841930C8E40C05BA7DE74F5F5CECFAE98149FF8921413CCA2904C674EE873F",
+  "AnalysisStatus": "Complete",
+  "Solution": {
+    "SolutionName": "TreeViewWalker",
+    "SolutionPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\TreeViewWalker\\TreeViewWalker.csproj",
+    "SolutionKey": "B91CEFDBF62C4683",
+    "SourceIdentity": {
+      "IdentityKey": "B91CEFDBF62C4683",
+      "IdentityKind": "disk-path",
+      "MachineName": "SURFACELAPTOP7",
+      "InputPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\TreeViewWalker\\TreeViewWalker.csproj",
+      "RepositoryRootPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\TreeViewWalker",
+      "GitRemoteUrl": null,
+      "GitRemoteKey": null
+    }
+  },
+  "Projects": [
+    {
+      "ProjectId": "5343ED6BF17ABA22",
+      "ProjectName": "TreeViewWalker",
+      "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\TreeViewWalker\\TreeViewWalker.csproj",
+      "ProjectStyle": "Unknown",
+      "LoadState": "Loaded",
+      "AnalysisStatus": "Complete",
+      "TargetFrameworks": null,
+      "AssetsFilePath": null,
+      "PackagesLockFilePath": null,
+      "Packages": [],
+      "DependencyEdges": [],
+      "Diagnostics": [],
+      "Warnings": []
+    }
+  ],
+  "Warnings": []
+}
