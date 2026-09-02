@@ -1,5 +1,7 @@
 ﻿# TreeViewWalker
 
+**Source last updated:** 2020-04-22
+
 A lightweight .NET class library that simplifies recursive traversal of Windows Forms `TreeView` controls using an event-driven visitor pattern.
 
 **Initiated:** 2006-02-21 · **Framework:** .NET Framework 4.8 · **Output:** Class Library
