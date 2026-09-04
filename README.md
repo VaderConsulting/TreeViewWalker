@@ -47,3 +47,8 @@ walker.ProcessBranch(someNode); // Walk a single subtree
 | `StopProcessing` | `false` | Set `true` to abort the walk |
 
 > `ProcessNodeEventArgs` is implemented as a singleton to avoid heap pressure on large trees.
+
+## Requirements
+
+- Visual Studio 2013 or later, .NET Framework 4.8
+
