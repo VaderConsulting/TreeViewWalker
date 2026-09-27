@@ -63,6 +63,8 @@ Open `TreeViewWalker.csproj` in Visual Studio (ToolsVersion 12.0) and build the 
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder.
+
 Working copy from my Development folder `TreeViewWalker`. The walker design and source comments point at the CodeProject article [TreeViewWalker - Simplifying Recursion](http://www.codeproject.com/Articles/12952/TreeViewWalker-Simplifying-Recursion); an older copy also sits in my Historical Dev folder `B4A_2/TreeViewWalker`.
 
 ## License
