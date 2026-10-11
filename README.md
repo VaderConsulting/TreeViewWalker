@@ -69,4 +69,4 @@ Working copy from my Development folder `TreeViewWalker`. The walker design and 
 
 ## License
 
-MIT © 2026 VaderConsulting for Dave Robinson's code. See `LICENSE`. Code taken from the CodeProject article keeps the article's original terms.
+MIT © 2026 Vader Consulting for Dave Robinson's code. See `LICENSE`. Code taken from the CodeProject article keeps the article's original terms.
